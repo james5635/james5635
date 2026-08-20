@@ -2,7 +2,7 @@
 
 ### 💻 Software Engineer | 🤖 AI/ML Enthusiast
 
-I'm a **Software Engineer and AI/ML enthusiast** passionate about building software, exploring artificial intelligence, and turning ideas into practical applications.
+I'm a **Software Engineer** passionate about building software, exploring artificial intelligence, and turning ideas into practical applications.
 
 I enjoy solving problems, learning new technologies, and building projects from scratch.
 
