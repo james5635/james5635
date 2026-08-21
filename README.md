@@ -67,9 +67,16 @@ I'm particularly interested in:
 * 🧮 Deep Learning & NLP
 * 🚀 AI-powered applications
 
-## Repository
+## 🗃️ Archive Repository
 
-| Repository                                                      | Description                                                                                                                                                                                             |
-| --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Mart Management](https://github.com/james5635/mart-management) | A C# .NET Windows Forms point-of-sale and inventory desktop app using EF Core + SQLite with UI forms for products, sales/purchases, customers, suppliers, employees, payments, inventory and reporting. |
-|                                                                 |             |
+| Repository                                                                                                | Description                                                                                                                                                                                             |
+| --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Mart Management](https://github.com/james5635/mart-management)                                           | A C# .NET Windows Forms point-of-sale and inventory desktop app using EF Core + SQLite with UI forms for products, sales/purchases, customers, suppliers, employees, payments, inventory and reporting. |
+| [Motorcycle Management](https://github.com/james5635/motorcycle-management)                               | A Flutter mobile app for managing a motorcycle shop with JVM backend service that provides APIs for products, orders, users, chat and FAQ.                                                              |
+| [15 Linux Systems](https://github.com/james5635/linux-server-assignment)                                  | A collection of Linux systems such as File Server, Proxy Server, Load Balancing.                                                                                                                        |      
+| [Library Management](https://github.com/james5635/Library-Management)                                     | |
+| [15 Windows Systems](https://github.com/james5635/windows_server_assignment)                              | |
+| [Student Attendance Management System](https://github.com/james5635/Student-Attendance-Management-System) | |
+| [Developer Project](https://github.com/james5635/developer_project)                                       | |
+
+
