@@ -74,8 +74,8 @@ I'm particularly interested in:
 | [Mart Management](https://github.com/james5635/mart-management)                                           | A C# .NET Windows Forms point-of-sale and inventory desktop app using EF Core + SQLite with UI forms for products, sales/purchases, customers, suppliers, employees, payments, inventory and reporting. |
 | [Motorcycle Management](https://github.com/james5635/motorcycle-management)                               | A Flutter mobile app for managing a motorcycle shop with JVM backend service that provides APIs for products, orders, users, chat and FAQ.                                                              |
 | [15 Linux Systems](https://github.com/james5635/linux-server-assignment)                                  | A collection of Linux systems such as File Server, Proxy Server, Load Balancing.                                                                                                                        |      
-| [Library Management](https://github.com/james5635/Library-Management)                                     | |
-| [15 Windows Systems](https://github.com/james5635/windows_server_assignment)                              | |
+| [Library Management](https://github.com/james5635/Library-Management)                                     | A full‑stack web app with a TypeScript Next.js frontend and a Java Gradle backend following Spring Boot patterns to expose CRUD APIs for managing library data.                                         |
+| [15 Windows Systems](https://github.com/james5635/windows_server_assignment)                              | A collection of Windows systems such as File Server, Proxy Server, Load Balancing.                                                                                                                        |
 | [Student Attendance Management System](https://github.com/james5635/Student-Attendance-Management-System) | |
 | [Developer Project](https://github.com/james5635/developer_project)                                       | |
 
