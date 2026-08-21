@@ -67,4 +67,9 @@ I'm particularly interested in:
 * 🧮 Deep Learning & NLP
 * 🚀 AI-powered applications
 
----
+## Repository
+
+| Repository                                                      | Description                                                                                                                                                                                             |
+| --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Mart Management](https://github.com/james5635/mart-management) | A C# .NET Windows Forms point-of-sale and inventory desktop app using EF Core + SQLite with UI forms for products, sales/purchases, customers, suppliers, employees, payments, inventory and reporting. |
+|                                                                 |             |
