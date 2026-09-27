@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Sou Chanrojame
 
-### 💻 Software Engineer
 
 I'm a **Software Engineer** passionate about building software, exploring artificial intelligence, and turning ideas into practical applications.
 
