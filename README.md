@@ -29,7 +29,7 @@ I enjoy solving problems, learning new technologies, and building projects from 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square\&logo=rust\&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square\&logo=go\&logoColor=white)
 
-### Frameworks & Tools
+### Frameworks
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square\&logo=django\&logoColor=white)
@@ -78,4 +78,7 @@ I'm particularly interested in:
 | [Student Attendance Management System](https://github.com/james5635/Student-Attendance-Management-System) | A web-based Student Attendance Management System built with Laravel (PHP) and a TypeScript/Vite frontend. It manages students, teachers, classes, schedules, attendance, enrollments, fees, and documents, with a database schema, ER diagram, and Docker support. |
 | [Developer Project](https://github.com/james5635/developer_project)                                       | A collection of beginner-friendly C++ CLI applications built with Bazel, covering practical development scenarios, that include task tracking, expense management, number guessing games, GitHub user activity queries, a TMDB movie search tool, and an HTTP caching proxy. |
 
-
+## 📦 Active Repository
+| Repository | Description |
+| ---------- | ----------- |
+| [SwafCode](https://github.com/james5635/SwafCode.git) | open-source code playground |
