@@ -53,19 +53,6 @@ I enjoy solving problems, learning new technologies, and building projects from 
 
 ---
 
-## 🤖 AI/ML Interests
-
-I'm particularly interested in:
-
-* 🧠 Large Language Models (LLMs)
-* 🔧 Fine-tuning & instruction tuning
-* 📚 Retrieval-Augmented Generation (RAG)
-* ⚡ LLM inference & optimization
-* 🏋️ Training language models
-* 🔗 AI Agents
-* 🧮 Deep Learning & NLP
-* 🚀 AI-powered applications
-
 ## 🗃️ Archive Repository
 
 | Repository                                                                                                | Description                                                                                                                                                                                             |
