@@ -1,22 +1,18 @@
 # 👋 Hi, I'm Sou Chanrojame
 
+I'm a **Software Engineer** passionate about designing and building software, exploring artificial intelligence, and turning ideas into practical solutions.
 
-I'm a **Software Engineer** passionate about building software, exploring artificial intelligence, and turning ideas into practical applications.
-
-I enjoy solving problems, learning new technologies, and building projects from scratch.
-
----
+I enjoy understanding how things work under the hood, solving complex problems, and continuously expanding my knowledge through hands-on projects and experimentation.
 
 ## 🚀 About Me
 
-* 💻 Software Engineer focused on building reliable and scalable applications
-* 🤖 AI/ML enthusiast exploring LLMs, RAG, fine-tuning, and model training
-* 🧠 Interested in algorithms, system design, backend development, and AI systems
-* 🔬 Experimenting with LLM training and AI-powered applications
-* 🌱 Continuously learning and exploring new technologies
-* 🛠️ Passionate about building things from scratch
+- 💻 **Software Engineering** — Building reliable, maintainable, and scalable applications.
+- 🤖 **Artificial Intelligence** — Exploring LLMs, RAG, fine-tuning, and model training.
+- ⚙️ **Backend & Systems** — Interested in system design, APIs, databases, and software architecture.
+- 🧠 **Computer Science** — Enjoying algorithms, data structures, and problem-solving.
+- 🔬 **Research & Experimentation** — Exploring emerging technologies and developing AI-powered applications.
+- 🛠️ **Builder at Heart** — Passionate about learning by building things from scratch.
 
----
 
 ## 🧰 Tech Stack
 
@@ -44,11 +40,18 @@ I enjoy solving problems, learning new technologies, and building projects from 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 
-### AI / ML
-
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![JAX](https://img.shields.io/badge/JAX-000000?style=flat-square&logo=google&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+### DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=flat-square&logo=qemu&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
 
 ### Databases
 
@@ -58,6 +61,7 @@ I enjoy solving problems, learning new technologies, and building projects from 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Chroma](https://img.shields.io/badge/Chroma-FF6F00?style=flat-square&logo=data:image%2Fsvg%2Bxml%3Bbase64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MyA0MCI%2BPHBhdGggZD0iTTE3LjUwMyAyLjUwMWMtOS42NjUgMC0xNy41IDcuODM1LTE3LjUgMTcuNXM3LjgzNSAxNy41IDE3LjUgMTcuNSAxNy41LTcuODM1IDE3LjUtMTcuNS03LjgzNS0xNy41LTE3LjUtMTcuNXoiIGZpbGw9IiMzMjdFRkYiLz48cGF0aCBkPSJNMzUuMDAzIDIuNTAxYy05LjY2NSAwLTE3LjUgNy44MzUtMTcuNSAxNy41czcuODM1IDE3LjUgMTcuNSAxNy41IDE3LjUtNy44MzQgMTcuNS0xNy41YzAtOS42NjUtNy44MzUtMTcuNS0xNy41LTE3LjV6IiBmaWxsPSIjRkZERTJEIi8%2BPHBhdGggZD0iTTE3LjUwMyAyMC4wMDJjMC05LjY2NSA3LjgzNS0xNy41IDE3LjUtMTcuNXYxNy41aC0xNy41eiIgZmlsbD0iI0ZGNjQ0NiIvPjxwYXRoIGQ9Ik0zNS4wMDMgMjAuMDAxYzAgOS42NjUtNy44MzUgMTcuNS0xNy41IDE3LjV2LTE3LjVoMTcuNXoiIGZpbGw9IiNGRjY0NDYiLz48L3N2Zz4%3D)
+
 ---
 
 ## 🗃️ Archive Repository
