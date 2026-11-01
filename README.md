@@ -38,8 +38,8 @@ I enjoy solving problems, learning new technologies, and building projects from 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-008ECF?style=flat-square&logo=go&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
 
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
@@ -54,8 +54,10 @@ I enjoy solving problems, learning new technologies, and building projects from 
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
-
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Chroma](https://img.shields.io/badge/Chroma-FF6F00?style=flat-square&logo=data:image%2Fsvg%2Bxml%3Bbase64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MyA0MCI%2BPHBhdGggZD0iTTE3LjUwMyAyLjUwMWMtOS42NjUgMC0xNy41IDcuODM1LTE3LjUgMTcuNXM3LjgzNSAxNy41IDE3LjUgMTcuNSAxNy41LTcuODM1IDE3LjUtMTcuNS03LjgzNS0xNy41LTE3LjUtMTcuNXoiIGZpbGw9IiMzMjdFRkYiLz48cGF0aCBkPSJNMzUuMDAzIDIuNTAxYy05LjY2NSAwLTE3LjUgNy44MzUtMTcuNSAxNy41czcuODM1IDE3LjUgMTcuNSAxNy41IDE3LjUtNy44MzQgMTcuNS0xNy41YzAtOS42NjUtNy44MzUtMTcuNS0xNy41LTE3LjV6IiBmaWxsPSIjRkZERTJEIi8%2BPHBhdGggZD0iTTE3LjUwMyAyMC4wMDJjMC05LjY2NSA3LjgzNS0xNy41IDE3LjUtMTcuNXYxNy41aC0xNy41eiIgZmlsbD0iI0ZGNjQ0NiIvPjxwYXRoIGQ9Ik0zNS4wMDMgMjAuMDAxYzAgOS42NjUtNy44MzUgMTcuNS0xNy41IDE3LjV2LTE3LjVoMTcuNXoiIGZpbGw9IiNGRjY0NDYiLz48L3N2Zz4%3D)
 ---
 
 ## 🗃️ Archive Repository
