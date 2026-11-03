@@ -48,6 +48,7 @@ I enjoy understanding how things work under the hood, solving complex problems, 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![JAX](https://img.shields.io/badge/JAX-000000?style=flat-square&logo=google&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
 ### DevOps
 
@@ -60,6 +61,7 @@ I enjoy understanding how things work under the hood, solving complex problems, 
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GlitchTip](https://img.shields.io/badge/GlitchTip-190F3A?style=flat-square&logo=glitchtip&logoColor=white)
 
 ### Databases
 
