@@ -61,7 +61,7 @@ I enjoy understanding how things work under the hood, solving complex problems, 
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![GlitchTip](https://img.shields.io/badge/GlitchTip-190F3A?style=flat-square&logo=glitchtip&logoColor=white)
+![GlitchTip](https://img.shields.io/badge/GlitchTip-EF3E50?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iOC4yIiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iNCIvPjxwYXRoIGQ9Ik0xNy41IDUuNWwzLjIgMy4yIiBmaWxsPSJub25lIiBzdHJva2U9IiNFRjNFNTAiIHN0cm9rZS13aWR0aD0iNSIgc3Ryb2tlLWxpbmVjYXA9ImJ1dHQiLz48cGF0aCBkPSJNMTIgMTJoOC4xIiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iNCIgc3Ryb2tlLWxpbmVjYXA9ImJ1dHQiLz48cGF0aCBkPSJNMS44IDguNGg0LjRNMTcuNCAzaDQuMU0xNy4yIDIwLjloNC40IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmIzYjQiIHN0cm9rZS13aWR0aD0iMS4zIi8+PC9zdmc+)
 
 ### Databases
 
